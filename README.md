@@ -1,16 +1,17 @@
 # 📅 Scroll Calendar
 
-**Scroll Calendar** è uno script React semplice e leggero che visualizza un calendario **scrollabile all'infinito**, mese per mese. Ideale per applicazioni che richiedono una navigazione fluida nel tempo senza limiti artificiali.
+**Scroll Calendar** è un componente React semplice e leggero che visualizza un calendario **scrollabile all'infinito settimana per settimana**.  
+Progettato per offrire una navigazione fluida nel tempo e uno stile moderno grazie all'integrazione con **Tailwind CSS**.
 
 ---
 
 ## 🚀 Caratteristiche
 
-- ♾️ Scorrimento infinito avanti e indietro nel tempo
+- 📆 Scorrimento infinito **settimana per settimana**
 - ⚛️ Componente React semplice da integrare
-- 📆 Supporto completo per mesi e anni
-- 🎨 Facile da personalizzare via CSS o styled-components
-- 💡 Nessuna dipendenza pesante: leggero e veloce
+- 🎨 Stile moderno pronto all’uso con **Tailwind CSS**
+- 💡 Nessuna dipendenza pesante: leggero, minimale, efficiente
+- ✏️ Facile da personalizzare o estendere
 
 ---
 
